@@ -1,3 +1,3 @@
 # Vadim Anishchenko
-# Education:
-* 
+# Contacts:
+* Tel: **+3754475626** **
