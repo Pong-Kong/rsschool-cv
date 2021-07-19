@@ -1,1 +1,1 @@
-https://pong-kong.github.io/rsschool-cv/cv
+https://github.com/Pong-Kong/rsschool-cv/blob/gh-pages/cv
