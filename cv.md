@@ -3,7 +3,7 @@
 * Tel: **+3754475626****
 * e-mail: **Janckman@gmail.com**
 * Discord: **Vadim Anishchenko(@pong-kong)**
-* Social: **[GitHub](https://github.com/Pong-Kong)** **[LinkedIn](https://www.linkedin.com/in/vadim-anishchenko-bb5824155/)**
+* Social: **[GitHub](https://github.com/Pong-Kong)**, **[LinkedIn](https://www.linkedin.com/in/vadim-anishchenko-bb5824155/)**
 
 # About me:
 
@@ -14,9 +14,20 @@
   2. Responsibility
   3. Persistence
 
-Now i'm working as Communyty Manager in [Wargaming](https://wargaming.com/ru/)  
+Now i'm working as Communyty Manager in [Wargaming](https://wargaming.com/ru/).  
 To improve my professional level, I need to master basic Javascript skills.  
 I am looking to acquire skills in Node and Vue.
 
+# Tech skills
+* HTML
+* CSS
+* Git
+* Jira
+* Confluence
+* Hypercomments
+* Grafana
+* Targetprocess
 
+#English
+* A2
  
