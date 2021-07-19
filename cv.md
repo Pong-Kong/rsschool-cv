@@ -14,4 +14,9 @@
   2. Responsibility
   3. Persistence
 
-asd
+Now i'm working as Communyty Manager in [Wargaming](https://wargaming.com/ru/)  
+To improve my professional level, I need to master basic Javascript skills.  
+I am looking to acquire skills in Node and Vue.
+
+
+ 
