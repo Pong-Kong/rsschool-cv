@@ -1,3 +1,3 @@
 # Vadim Anishchenko
 # Contacts:
-* Tel: **+3754475626** **
+* Tel: **+3754475626****
