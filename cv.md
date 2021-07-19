@@ -7,12 +7,10 @@
 
 # About me:
 
-**Age:** 31
+Age: 31
+Family status:not marreied 
+Personal qualities:
+*Teamwork skills
+*Responsibility
+*Persistence
 
-**Family status:** not marreied 
-
-**Personal qualities:**
-
-*
-*
-*
