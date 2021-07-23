@@ -15,7 +15,7 @@
   3. Persistence
 
 Now i'm working as Communyty Manager in [Wargaming](https://wargaming.com/ru/).  
-To improve my professional level, I need to master basic Javascript skills.  
+To improve my professional level, I want to learn basic Javascript skills.  
 I am looking to acquire skills in Node and Vue.
 
 # Tech skills
