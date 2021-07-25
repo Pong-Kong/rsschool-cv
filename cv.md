@@ -1,6 +1,6 @@
 # Vadim Anishchenko
 # Contacts:
-* Tel: **+3754475626****
+* Tel: **+37544756******
 * e-mail: **Janckman@gmail.com**
 * Discord: **Vadim Anishchenko(@pong-kong)**
 * Social: **[GitHub](https://github.com/Pong-Kong)**, **[LinkedIn](https://www.linkedin.com/in/vadim-anishchenko-bb5824155/)**
@@ -12,7 +12,7 @@
 **Personal qualities:**
   1. Teamwork skills
   2. Responsibility
-  3. PersistenceM  
+  3. Persistence  
   4. Multitasking
  
 Now i'm working as Communyty Manager in [Wargaming](https://wargaming.com/ru/).  
