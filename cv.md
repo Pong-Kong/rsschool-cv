@@ -6,6 +6,7 @@
 * Social: **[GitHub](https://github.com/Pong-Kong)**, **[LinkedIn](https://www.linkedin.com/in/vadim-anishchenko-bb5824155/)**
 # About me:
 
+
 **Age:** 31   
 **Personal qualities:**
   1. Teamwork skills
