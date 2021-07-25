@@ -27,14 +27,14 @@ I am looking to acquire skills in Node and Vue.
 
 # Work experience
 
-2012-2018
-**Game Master**
-Game Stream | Wargaming 
-
-2018-today
-**Community Manager**
-Game Stream | Wargaming 
-
+2012-2018  
+**Game Master**  
+Game Stream | Wargaming   
+  
+2018-today  
+**Community Manager**  
+Game Stream | Wargaming   
+  
 # Tech skills
 * HTML
 * CSS
