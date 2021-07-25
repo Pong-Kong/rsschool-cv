@@ -12,8 +12,9 @@
 **Personal qualities:**
   1. Teamwork skills
   2. Responsibility
-  3. Persistence
-
+  3. PersistenceM  
+  4. Multitasking
+ 
 Now i'm working as Communyty Manager in [Wargaming](https://wargaming.com/ru/).  
 To improve my professional level, I want to learn basic Javascript skills.  
 I am looking to acquire skills in Node and Vue.
