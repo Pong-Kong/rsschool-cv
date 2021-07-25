@@ -4,7 +4,6 @@
 * e-mail: **Janckman@gmail.com**
 * Discord: **Vadim Anishchenko(@pong-kong)**
 * Social: **[GitHub](https://github.com/Pong-Kong)**, **[LinkedIn](https://www.linkedin.com/in/vadim-anishchenko-bb5824155/)**
-
 # About me:
 
 **Age:** 31   
