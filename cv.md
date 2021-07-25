@@ -1,6 +1,6 @@
 # Vadim Anishchenko
 # Contacts:
-* Tel: **+37544756******
+* Tel: **+37544756**** **
 * e-mail: **Janckman@gmail.com**
 * Discord: **Vadim Anishchenko(@pong-kong)**
 * Social: **[GitHub](https://github.com/Pong-Kong)**, **[LinkedIn](https://www.linkedin.com/in/vadim-anishchenko-bb5824155/)**
