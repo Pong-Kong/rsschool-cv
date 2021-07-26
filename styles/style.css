@@ -1,4 +1,38 @@
-.links .rsschool:{
-    background: url("../images/rs_school_logo.svg") center no-repeat;
-    background-size: 100% 100%;
+  body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    display: grid;
+    grid-template: auto/1fr minmax(600px, 2fr) 1fr;
+    grid-template-areas: '. main ';
+  }
+  
+  figure {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  .photo img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+
+  .contacts {
+    margin-top: -15px;
+  }
+  .contacts-title {
+    text-align: center;
+  }
+
+  .cv {
+    display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  max-width: 800px;
+  margin: 0 auto;
   }
